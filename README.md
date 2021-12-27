@@ -1,2 +1,2 @@
 # smartapartmentsample
-S
+Sample project for Smart Apartment Elastic Implementation
