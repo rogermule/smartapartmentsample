@@ -47,7 +47,6 @@ C:\Users\user\source\smartapartmentsample\SmartApartmentSample\bin\Debug\netcore
 C:\Users\user\source\smartapartmentsample\SmartApartmentSample\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\user\source\smartapartmentsample\SmartApartmentSample\bin\Debug\netcoreapp3.1\mgmt.json
 C:\Users\user\source\smartapartmentsample\SmartApartmentSample\bin\Debug\netcoreapp3.1\properties.json
-C:\Users\user\source\smartapartmentsample\SmartApartmentSample\bin\Debug\netcoreapp3.1\mgmt_2.json
 C:\Users\user\source\smartapartmentsample\SmartApartmentSample\bin\Debug\netcoreapp3.1\SmartApartmentSample.exe
 C:\Users\user\source\smartapartmentsample\SmartApartmentSample\bin\Debug\netcoreapp3.1\SmartApartmentSample.deps.json
 C:\Users\user\source\smartapartmentsample\SmartApartmentSample\bin\Debug\netcoreapp3.1\SmartApartmentSample.runtimeconfig.json

@@ -1,14 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Nest;
-using Newtonsoft.Json;
 using SampleApartmentSample.Data.Abstractions;
 using SampleApartmentSample.Data.Models;
-using SmartApartmentSample.Abstractions;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 using System.Threading.Tasks;
 
 
