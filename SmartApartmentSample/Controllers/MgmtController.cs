@@ -6,14 +6,12 @@ using SmartApartmentSample.Core.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-
 namespace SmartApartmentSample.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class MgmtController : ControllerBase
     {
-        private const string INDEX = "mgmt";
         private readonly ILogger<MgmtController> _logger;
         private readonly IMgmtElasticSearch _client;
 

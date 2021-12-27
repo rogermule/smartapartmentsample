@@ -8,3 +8,13 @@ C:\Users\user\source\repos\SmartApartmentSample\SmartApartmentSample.Core\obj\De
 C:\Users\user\source\repos\SmartApartmentSample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\SmartApartmentSample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.dll
 C:\Users\user\source\repos\SmartApartmentSample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.pdb
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\bin\Debug\netcoreapp3.1\SmartApartmentSample.Core.deps.json
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\bin\Debug\netcoreapp3.1\SmartApartmentSample.Core.dll
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\bin\Debug\netcoreapp3.1\SmartApartmentSample.Core.pdb
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.AssemblyInfo.cs
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.dll
+C:\Users\user\source\smartapartmentsample\SmartApartmentSample.Core\obj\Debug\netcoreapp3.1\SmartApartmentSample.Core.pdb

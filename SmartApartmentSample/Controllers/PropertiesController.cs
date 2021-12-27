@@ -11,7 +11,6 @@ namespace SmartApartmentSample.Controllers
     [ApiController]
     public class PropertiesController : ControllerBase
     {
-        private const string INDEX = "properties";
         private readonly ILogger<PropertiesController> _logger;
         private readonly IPropertiesElasticSearch _client;
 
